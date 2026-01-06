@@ -1,4 +1,4 @@
-- - 👋 Hi, I’m lizzy
+- 👋 Hi, I’m lizzy
   
 I am a software development student focused on building clear, 
 functional web projects and strengthening problem solving skills through code.
@@ -22,8 +22,7 @@ functional web projects and strengthening problem solving skills through code.
         lizezzie@gmail.com
   
 - ⚡ Fun fact:
-       <!---I enjoy deep focus, meaningful work, and building things that actually make sense
-You can click the Preview link to take a look at your changes.--->
+       <!---I enjoy deep focus, meaningful work, and building things that actually make sense--->
 
 You can click the Preview link to take a look at your changes.
 --->
