@@ -40,6 +40,3 @@ I enjoy focused, meaningful work and building things that actually make sense.
 
 ---
 
-If you want, I can:
-- help pick 2–3 projects to feature and write short descriptions, or
-- create a PR that replaces the current README with this version (tell me which repo/branch to commit to).
