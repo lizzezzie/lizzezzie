@@ -1,4 +1,4 @@
-# Hi — I’m Lizzezzie 👋
+# Hi — I’m Lizzy 👋
 
 I’m a software development student focused on building clear, functional web projects and strengthening problem-solving skills through code.
 
