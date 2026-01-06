@@ -15,11 +15,10 @@ I’m a software development student focused on building clear, functional web p
 - Personal experiments that move ideas from theory to practice
 
 ## 🌟 Featured projects
-- [Project One](LINK_TO_PROJECT_ONE) — Short description (what it does). Tech: HTML, CSS, JavaScript.
-- [Project Two](LINK_TO_PROJECT_TWO) — Short description (what you learned). Tech: Python, Flask.
-- [Project Three](LINK_TO_PROJECT_THREE) — Short description (demo or deployment link). Tech: React, CSS.
+- [wdd130](https://github.com/lizzezzie/wdd130) — Multi-page course site (WWR). Built with HTML & CSS; includes homepage, trips pages, and a contact form. Focus: responsive layout and accessible form markup.
+- [wdd131](https://github.com/lizzezzie/wdd131) — Course project built with HTML & CSS. Focus: applying layout patterns and polishing visuals.
 
-(Replace the placeholders above with your repo links and a 1-line summary for each project.)
+I can add screenshots, demos, or short bullet points for each project if you want me to.
 
 ## 🧰 Skills
 - Frontend: HTML, CSS, JavaScript
