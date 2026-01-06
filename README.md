@@ -18,7 +18,6 @@ I’m a software development student focused on building clear, functional web p
 - [wdd130](https://github.com/lizzezzie/wdd130) — Multi-page course site (WWR). Built with HTML & CSS; includes homepage, trips pages, and a contact form. Focus: responsive layout and accessible form markup.
 - [wdd131](https://github.com/lizzezzie/wdd131) — Course project built with HTML & CSS. Focus: applying layout patterns and polishing visuals.
 
-I can add screenshots, demos, or short bullet points for each project if you want me to.
 
 ## 🧰 Skills
 - Frontend: HTML, CSS, JavaScript
