@@ -32,7 +32,7 @@ I’m a software development student focused on building clear, functional web p
 
 ## 📫 Get in touch
 - GitHub: https://github.com/lizzezzie
-- Email: lizzezzie [at] gmail [dot] com (or remove/obfuscate if you prefer)
+- Email: lizzezzie [at] gmail [dot] com
 
 ## ⚡ Fun fact
 I enjoy focused, meaningful work and building things that actually make sense.
